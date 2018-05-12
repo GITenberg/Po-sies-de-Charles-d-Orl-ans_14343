@@ -1,0 +1,35 @@
+_repo: Po-sies-de-Charles-d-Orl-ans_14343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Charles, d'Orléans
+    aliases:
+    - Charles, d'Orleans
+    - Orléans, Charles d'
+    - D'Orléans, Charles
+    - Charles, duc d'Orléans
+    birthdate: 1394
+    deathdate: 1465
+    gutenberg_agent_id: '5483'
+    url: http://www.gutenberg.org/2009/agents/5483
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_d'Orléans_(1394-1465)
+    - http://en.wikipedia.org/wiki/Charles,_duc_d'Orléans
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2004-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14343'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French poetry -- To 1500'
+- !lcc 'PQ'
+title: Poésies de Charles d'Orléans
+url: http://www.gutenberg.org/ebooks/14343
