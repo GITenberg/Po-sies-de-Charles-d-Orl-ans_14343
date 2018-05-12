@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Charles_d'Orléans_(1394-1465)
     - http://en.wikipedia.org/wiki/Charles,_duc_d'Orléans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14343#Po-sies-de-Charles-d-Orl-ans
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2004-12-13'
 gutenberg_type: Text
